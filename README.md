@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paranjay Soni 👋</h1>
-<h3 align="center">AI/ML Developer | IEEE RGIPT Executive | Hackathon Enthusiast | C++ DSA Learner</h3>
+<h3 align="center">AI/ML Developer | Hackathon Enthusiast | C++ DSA Learner</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 🔭 I’m currently focused on:
 - Building **AI/ML projects** using Python, Jupyter, Streamlit
 - Practicing **Data Structures & Algorithms in C++**
-- Contributing as an **Executive** in the IEEE RGIPT Audit & Reporting Team
 
 💡 I enjoy participating in hackathons, exploring research-based challenges, and collaborating on tech-driven solutions.
 
