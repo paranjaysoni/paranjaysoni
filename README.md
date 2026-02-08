@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Paranjay Soni 👋</h1>
-<h3 align="center">AI/ML Developer | Hackathon Enthusiast | C++ DSA Learner</h3>
+<h3 align="center">AI/ML & GenAI Developer | Hackathon Enthusiast | C++ DSA Learner</h3>
 
 ---
 
 🎓 I'm a 19-year-old Computer Science undergraduate at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**, passionate about building intelligent systems and solving real-world problems using machine learning and algorithms.
 
 🔭 I’m currently focused on:
-- Building **AI/ML projects** using Python, Jupyter, Streamlit
+- Building **AI/ML & GenAI projects** using Python, Jupyter, Streamlit
 - Practicing **Data Structures & Algorithms in C++**
 
 💡 I enjoy participating in hackathons, exploring research-based challenges, and collaborating on tech-driven solutions.
