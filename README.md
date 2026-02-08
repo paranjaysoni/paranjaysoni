@@ -14,7 +14,7 @@
 🛠 Tech Stack:
 - **Languages:** Python, C++, C
 - **Tools:** Jupyter, Streamlit, Git, Hugging Face
-- **Domains:** Machine Learning, Automation, Data Science, DSA
+- **Domains:** Machine Learning, GenAI, Automation, Data Science, DSA
 
 📫 Connect with me:
 - 💼 LinkedIn: [linkedin.com/in/paranjaysoni](https://www.linkedin.com/in/paranjaysoni)
