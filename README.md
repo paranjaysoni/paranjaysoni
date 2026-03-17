@@ -4,35 +4,71 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 B.Tech (IT) @ Rajiv Gandhi Institute of Petroleum Technology (RGIPT)  
+🎓 B.Tech (Information Technology) @ Rajiv Gandhi Institute of Petroleum Technology (RGIPT)  
 📊 CPI: 9.22/10  
 
-I’m passionate about building **intelligent, real-world AI systems** and solving complex problems through **Machine Learning, GenAI, and Data Structures**.
+I’m passionate about building **intelligent, production-ready AI systems** and solving real-world problems using **Machine Learning, Generative AI, and scalable software engineering**.
 
-I don’t just learn concepts — I **build, deploy, and optimize**.
+I focus on **end-to-end development** — from data processing → model building → deployment.
 
 ---
 
 ## ⚡ What I’m Currently Doing
-- 🤖 Developing **GenAI & LLM-powered applications**
-- 🔍 Working on **RAG pipelines & NLP systems**
-- 💻 Practicing **Data Structures & Algorithms (C++)**
-- 🚀 Preparing for **GSoC & high-impact open source contributions**
+- 🤖 Building **LLM-powered applications** using LangChain, Hugging Face & Groq
+- 🔍 Designing **RAG pipelines with vector databases (ChromaDB)**
+- 🧠 Exploring **Deep Learning (LSTM, RNN, Transformers)**
+- 💻 Strengthening **DSA in C++ for problem-solving & interviews**
+- 🌍 Contributing to **open source (GSoC 2026 preparation)**
+- 🚀 Developing **AI-based real-world projects for deployment**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Complete Tech Stack
 
-### 👨‍💻 Languages
-`Python` • `C++` • `C` • `SQL`
+### 👨‍💻 Programming Languages
+`Python` • `C++` • `C` • `SQL` • `HTML` • `CSS`
 
-### 🤖 AI/ML & GenAI
-`Scikit-learn` • `TensorFlow` • `Keras` • `Hugging Face`  
-`LangChain (LCEL)` • `Transformers` • `RAG Pipelines` • `Prompt Engineering`
+---
 
-### 📊 Data & Tools
-`NumPy` • `Pandas` • `Matplotlib` • `Streamlit`  
-`Jupyter Notebook` • `Git` • `Docker` • `ChromaDB`
+### 🤖 AI/ML & Deep Learning
+- **Machine Learning:**  
+  `Scikit-learn` • Regression • Classification • Clustering • Feature Engineering • Model Evaluation  
+
+- **Deep Learning:**  
+  `TensorFlow` • `Keras` • ANN • RNN • LSTM • GRU  
+
+- **Natural Language Processing (NLP):**  
+  Text Preprocessing • Tokenization • TF-IDF • Word Embeddings • Sentiment Analysis  
+
+---
+
+### 🧠 Generative AI & LLMs
+`Transformers` • `Hugging Face` • `LangChain (LCEL)`  
+`RAG Pipelines` • Prompt Engineering • Context Management  
+LLM APIs (Groq, LLaMA models)  
+
+---
+
+### 🗄 Data Science & Analysis
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn`
+
+---
+
+### ⚙️ Tools & Frameworks
+`Streamlit` • `Jupyter Notebook` • `Git` • `GitHub`  
+`Docker` • `LangSmith`  
+
+---
+
+### 🧩 Databases & Vector Stores
+`MySQL` • `ChromaDB`
+
+---
+
+### 📚 Core Computer Science
+Data Structures & Algorithms (DSA)  
+Object-Oriented Programming (OOP)  
+DBMS  
 
 ---
 
@@ -40,22 +76,22 @@ I don’t just learn concepts — I **build, deploy, and optimize**.
 
 ### 🧠 DocuMind AI — RAG-based PDF Assistant
 - Built an end-to-end **Retrieval-Augmented Generation system**
-- Context-aware querying with **history-aware reformulation**
-- Powered by **LLaMA 3.3 (70B)** + vector search
+- Context-aware querying with history-aware reformulation
+- Powered by **LLaMA 3.3 (70B)** + vector similarity search
 
 ---
 
 ### 💬 QueryMind AI — Conversational LLM Chatbot
-- Multi-turn chatbot with **real-time token streaming**
-- Designed structured pipelines using **LangChain (LCEL)**
-- Integrated **LangSmith** for observability & tracing
+- Multi-turn chatbot with real-time token streaming
+- Designed structured pipelines using LangChain (LCEL)
+- Integrated LangSmith for observability & tracing
 
 ---
 
 ### 🐦 TweetPulse — Sentiment Analysis System
 - Achieved **95% accuracy** using TF-IDF + Logistic Regression
-- Full NLP pipeline (cleaning → vectorization → inference)
-- Deployed with **Streamlit + Hugging Face**
+- Complete NLP pipeline (cleaning → vectorization → inference)
+- Deployed using Streamlit + Hugging Face
 
 ---
 
@@ -75,10 +111,11 @@ I don’t just learn concepts — I **build, deploy, and optimize**.
 
 ---
 
-## 📈 What Makes Me Different
+## 📈 What Sets Me Apart
 ✔ I build **end-to-end AI systems**, not just models  
-✔ Strong blend of **ML + Software Engineering**  
-✔ Focused on **real-world impact & scalability**  
+✔ Strong blend of **ML + software engineering**  
+✔ Focused on **real-world deployment & scalability**  
+✔ Fast learner with **execution-first mindset**  
 
 ---
 
