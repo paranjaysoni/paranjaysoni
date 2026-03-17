@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 B.Tech (IT), RGIPT | 📊 CPI: 9.22/10  
+🎓 B.Tech (IT), Rajiv Gandhi Institute Of Petroleum Technology (RGIPT) | 📊 CPI: 9.22/10  
 
 I build **end-to-end AI systems** using Machine Learning, Deep Learning, and Generative AI — focused on real-world deployment, not just models.
 
