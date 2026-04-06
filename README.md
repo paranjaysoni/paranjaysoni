@@ -41,14 +41,6 @@ RAG Pipelines • Prompt Engineering • LLM APIs (Groq, LLaMA)
 
 ---
 
-## 🚀 Key Projects
-- **DocuMind AI** — RAG-based PDF assistant (LLaMA 3.3 + vector search)  
-- **QueryMind AI** — Multi-turn LLM chatbot with streaming & memory  
-- **TweetPulse** — Sentiment analysis (95% accuracy)  
-- **WordFlow AI** — LSTM-based next word prediction  
-
----
-
 ## 🏆 Achievements
 - 🥇 **Top 25** — India Energy Week 2026 (HPCL)  
 - 🏆 **Top 6 / 63 teams** — IIT Bombay Techfest  
