@@ -28,7 +28,7 @@ I build **end-to-end AI systems** using Machine Learning, Deep Learning, and Gen
 Regression • Classification • Clustering  
 ANN • **CNN** • RNN • LSTM • GRU  
 
-**GenAI & NLP**  
+** AgenticAI, GenAI & NLP**  
 `Transformers` • `Hugging Face` • `LangChain (LCEL)`  
 RAG Pipelines • Prompt Engineering • LLM APIs (Groq, LLaMA)  
 
