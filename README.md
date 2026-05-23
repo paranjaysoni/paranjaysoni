@@ -117,15 +117,6 @@ My work focuses on creating intelligent systems that are not just model-based, b
 
 ---
 
-## 🌍 Open Source & Community
-
-- Preparing for **GSoC 2026**
-- Exploring open-source projects in **AI/ML, LLMs, automation, and developer tools**
-- Interested in contributing to **AI infrastructure, RAG systems, and intelligent workflow automation**
-- Actively building and sharing projects around **GenAI and AI engineering**
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Top 25** — India Energy Week 2026, HPCL Sponsored  
