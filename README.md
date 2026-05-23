@@ -84,20 +84,6 @@ My work focuses on creating intelligent systems that are not just model-based, b
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![RepoMind AI](https://github-readme-stats.vercel.app/api/pin/?username=paranjaysoni&repo=RepoMind-AI&theme=tokyonight)](https://github.com/paranjaysoni/RepoMind-AI)
-[![Log Classification System](https://github-readme-stats.vercel.app/api/pin/?username=paranjaysoni&repo=Log-Classification-System&theme=tokyonight)](https://github.com/paranjaysoni/Log-Classification-System)
-
-[![DocuMind AI](https://github-readme-stats.vercel.app/api/pin/?username=paranjaysoni&repo=DocuMind-AI&theme=tokyonight)](https://github.com/paranjaysoni/DocuMind-AI)
-[![MultiMind AI](https://github-readme-stats.vercel.app/api/pin/?username=paranjaysoni&repo=MultiMind-AI&theme=tokyonight)](https://github.com/paranjaysoni/MultiMind-AI)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
