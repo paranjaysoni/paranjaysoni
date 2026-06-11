@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-🚀 AI Intern @ Firstgreen Consulting | AI Engineer Intern @ MySchord  
+🚀 AI & Software Engineer Intern @Firstgreen_Consulting | AI Engineer Intern @MySchord  
 <br/>
 🧠 AI/ML • Deep Learning • GenAI • RAG • Agentic AI • Automation
 </h3>
