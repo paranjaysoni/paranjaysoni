@@ -32,8 +32,8 @@ My work focuses on creating intelligent systems that are not just model-based, b
 
 ## ⚡ Currently
 
-- 🤖 AI Intern at **Firstgreen Consulting Pvt Ltd**
-- 🧠 AI Engineer Intern at **MySchord Pvt. Ltd**
+- 🤖 AI & Software Engineer Intern at **Firstgreen Consulting Pvt Ltd** (Onsite)
+- 🧠 AI Engineer Intern at **MySchord Pvt. Ltd** (Remote)
 - 🔭 Building **LLM, RAG, and Agentic AI systems**
 - ⚙️ Exploring **AI workflow automation using n8n**
 - 💻 Practicing **DSA in C++**
