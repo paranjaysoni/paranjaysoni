@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Hey+%F0%9F%91%8B%2C+I'm+Paranjay+Soni;AI%2FML+%26+GenAI+Builder;Building+RAG%2C+Agentic+AI+%26+Automation+Systems;Learning+Relentlessly+%7C+Building+Consistently" alt="Typing SVG" />
@@ -15,9 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paranjay%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paranjaysoni)
-[![GitHub](https://img.shields.io/badge/GitHub-paranjaysoni-181717?style=for-the-badge&logo=github)](https://github.com/paranjaysoni)
-[![Email](https://img.shields.io/badge/Email-soniparanjay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soniparanjay@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paranjay%20Soni-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/paranjaysoni)
+[![GitHub](https://img.shields.io/badge/GitHub-paranjaysoni-181717?style=for-the-badge\&logo=github)](https://github.com/paranjaysoni)
+[![Email](https://img.shields.io/badge/Email-soniparanjay%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soniparanjay@gmail.com)
 
 </div>
 
@@ -39,12 +38,12 @@ I build **end-to-end AI systems** using **Machine Learning, Deep Learning, Gener
 
 My focus is not limited to training models. I enjoy building complete intelligent systems that can:
 
-- understand user intent,
-- retrieve relevant context,
-- reason over information,
-- use tools,
-- automate workflows,
-- and deliver real-world outcomes.
+* understand user intent,
+* retrieve relevant context,
+* reason over information,
+* use tools,
+* automate workflows,
+* and deliver real-world outcomes.
 
 I’m currently exploring the intersection of **LLMs, AI agents, vector databases, workflow automation, and production-ready AI applications**.
 
@@ -52,25 +51,40 @@ I’m currently exploring the intersection of **LLMs, AI agents, vector database
 
 ## 🚀 Current Focus
 
-- 🤖 AI & Software Engineer Intern at **Firstgreen Consulting Pvt. Ltd.**
-- 🧠 AI Engineer Intern at **MySchord Pvt. Ltd.**
-- 🔭 Building **LLM, RAG, and Agentic AI systems**
-- ⚙️ Creating AI workflow automations using **n8n**
-- 🧩 Practicing **Data Structures & Algorithms in C++**
-- 🌍 Preparing for **Open Source / GSoC 2026**
-- 🛠 Building projects around **AI automation, retrieval systems, and intelligent assistants**
+* 🤖 AI & Software Engineer Intern at **Firstgreen Consulting Pvt. Ltd.**
+* 🧠 AI Engineer Intern at **MySchord Pvt. Ltd.**
+* 🔭 Building **LLM, RAG, and Agentic AI systems**
+* ⚙️ Creating AI workflow automations using **n8n**
+* 🧩 Practicing **Data Structures & Algorithms in C++**
+* 🌍 Preparing for **Open Source / GSoC 2026**
+* 🛠 Building projects around **AI automation, retrieval systems, and intelligent assistants**
 
 ---
 
 ## 🧠 What I Build
 
-```txt
-AI Systems        → RAG apps, AI agents, LLM assistants, automation workflows
-ML/DL Models      → Classification, regression, CNNs, RNNs, LSTMs, GRUs
-Automation        → n8n workflows, GitHub automation, AI-powered pipelines
-Backend Logic     → APIs, database workflows, authentication, integrations
-Data Systems      → Vector search, embeddings, SQL, structured pipelines
-````
+<table>
+<tr>
+<td><b>AI Systems</b></td>
+<td>RAG apps, AI agents, LLM assistants, automation workflows</td>
+</tr>
+<tr>
+<td><b>ML/DL Models</b></td>
+<td>Classification, regression, CNNs, RNNs, LSTMs, GRUs</td>
+</tr>
+<tr>
+<td><b>Automation</b></td>
+<td>n8n workflows, GitHub automation, AI-powered pipelines</td>
+</tr>
+<tr>
+<td><b>Backend Logic</b></td>
+<td>APIs, database workflows, authentication, integrations</td>
+</tr>
+<tr>
+<td><b>Data Systems</b></td>
+<td>Vector search, embeddings, SQL, structured pipelines</td>
+</tr>
+</table>
 
 ---
 
@@ -87,8 +101,6 @@ Data Systems      → Vector search, embeddings, SQL, structured pipelines
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
 ### 🤖 Machine Learning & Deep Learning
 
 <p align="left">
@@ -99,12 +111,9 @@ Data Systems      → Vector search, embeddings, SQL, structured pipelines
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-```txt
-Regression • Classification • Clustering • Feature Engineering • Model Evaluation
-ANN • CNN • RNN • LSTM • GRU
-```
-
----
+**Core Areas:**
+`Regression` • `Classification` • `Clustering` • `Feature Engineering` • `Model Evaluation`
+`ANN` • `CNN` • `RNN` • `LSTM` • `GRU`
 
 ### 🧠 GenAI, RAG, Agentic AI & NLP
 
@@ -116,12 +125,9 @@ ANN • CNN • RNN • LSTM • GRU
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-```txt
-LLMs • RAG Pipelines • Prompt Engineering • Embeddings • Vector Search
-Tool Calling • AI Agents • LLM Orchestration • Context-Aware Retrieval
-```
-
----
+**Core Areas:**
+`LLMs` • `RAG Pipelines` • `Prompt Engineering` • `Embeddings` • `Vector Search`
+`Tool Calling` • `AI Agents` • `LLM Orchestration` • `Context-Aware Retrieval`
 
 ### ⚙️ Tools, Platforms & Databases
 
@@ -145,19 +151,16 @@ Tool Calling • AI Agents • LLM Orchestration • Context-Aware Retrieval
 
 An AI automation system that helps users understand large GitHub repositories using natural language.
 
-```txt
-What it does:
-• Fetches and indexes GitHub repositories
-• Creates embeddings using Gemini
-• Stores repository context in Pinecone Vector DB
-• Enables natural language Q&A over codebases
-• Helps generate explanations, architecture summaries, and README documentation
-```
+**What it does:**
 
-```txt
-Tech Used:
-n8n • Gemini • Pinecone • RAG • GitHub API • Workflow Automation
-```
+* Fetches and indexes GitHub repositories
+* Creates embeddings using Gemini
+* Stores repository context in Pinecone Vector DB
+* Enables natural language Q&A over codebases
+* Helps generate explanations, architecture summaries, and README documentation
+
+**Tech Used:**
+`n8n` • `Gemini` • `Pinecone` • `RAG` • `GitHub API` • `Workflow Automation`
 
 ---
 
@@ -165,14 +168,13 @@ n8n • Gemini • Pinecone • RAG • GitHub API • Workflow Automation
 
 Working on AI-powered solar plant intelligence, plant onboarding, telemetry workflows, demo workspaces, and digital twin systems at **Firstgreen Consulting**.
 
-```txt
-Focus Areas:
-• Solar plant onboarding
-• API-based plant discovery
-• Telemetry and monitoring flows
-• Digital twin workflows
-• Plant dashboards and operational intelligence
-```
+**Focus Areas:**
+
+* Solar plant onboarding
+* API-based plant discovery
+* Telemetry and monitoring flows
+* Digital twin workflows
+* Plant dashboards and operational intelligence
 
 ---
 
@@ -180,14 +182,13 @@ Focus Areas:
 
 Building AI-powered automations that combine LLMs, APIs, vector databases, and workflow orchestration.
 
-```txt
-Focus:
-• Automated knowledge retrieval
-• AI assistants
-• Tool-based workflows
-• Context-aware automation
-• Intelligent business process automation
-```
+**Focus Areas:**
+
+* Automated knowledge retrieval
+* AI assistants
+* Tool-based workflows
+* Context-aware automation
+* Intelligent business process automation
 
 ---
 
@@ -206,7 +207,7 @@ Focus:
 <br/>
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=paranjaysoni&theme=tokyo-night&hide_border=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=paranjaysoni&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -233,15 +234,12 @@ Focus:
 
 ## 📌 Learning Roadmap
 
-```txt
-Currently improving:
-• Advanced RAG systems
-• AI agents and tool calling
-• LangGraph-based workflows
-• Production-ready AI applications
-• DSA and problem solving in C++
-• Open-source contribution workflows
-```
+* Advanced RAG systems
+* AI agents and tool calling
+* LangGraph-based workflows
+* Production-ready AI applications
+* DSA and problem solving in C++
+* Open-source contribution workflows
 
 ---
 
@@ -264,4 +262,3 @@ Currently improving:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" />
 
 </div>
-```
