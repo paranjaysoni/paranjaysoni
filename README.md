@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-🚀 AI & Software Engineer Intern @ Firstgreen Consulting | AI Engineer Intern @ MySchord
+🚀 AI & Software Engineer Intern @ Firstgreen Consulting Pvt Ltd | AI Engineer Intern @ MySchord Pvt Ltd
 </h2>
 
 <h3 align="center">
